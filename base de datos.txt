@@ -1,0 +1,2 @@
+la base de datos para este ejemplo se llama app_todolist
+link video: https://www.youtube.com/watch?v=CIJLQ7slPyU&list=LL&index=4
